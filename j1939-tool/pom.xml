@@ -1,0 +1,11 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ftsi.ops.simulator</groupId>
+  <artifactId>j1939-tool</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Jerry Stutsman II</name>
+  <description>Tools for J1939 Standard</description>
+  	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+ </project>
